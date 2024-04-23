@@ -1,0 +1,2 @@
+hello
+belajar git pertama kali!
